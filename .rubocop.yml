@@ -1,0 +1,11 @@
+AllCops:
+  Exclude:
+    - '*.gemspec'
+    - 'bin/console'
+    - 'Rakefile'
+
+Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 80
