@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/westfieldlabs/status_querier.svg?branch=master)](https://travis-ci.org/westfieldlabs/status_querier)
 # StatusQuerier
 
 `StatusQuerier` gives the ability to safely combine scopes with `or` method given by the `where-or` gem. It restricts the scopes to the allowable 6 types. `pending`, `preview`, `live`, `expired`, `invalid`, and `disabled`.
